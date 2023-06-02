@@ -1,2 +1,3 @@
 echo "Hello ezt tavolrol futtattad le"
-open .
+result=$(open .)
+echo $result
